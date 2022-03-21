@@ -388,3 +388,20 @@ body
         font-size: 9px;
     }
 }
+
+@media screen and (max-width: 390px) {
+    .register-box{
+        height: 79vh;
+        width: 70vw;
+        margin: 50px auto;
+    }
+
+    #checkbox{
+        font-size: 11px;
+    }
+
+    #form input{
+        width: 65%;
+    }
+
+}
